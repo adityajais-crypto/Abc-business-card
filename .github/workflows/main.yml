@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ABC Life Career Marketing</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: #001f3f;
+      color: #ffd700;
+      margin: 0;
+      padding: 20px;
+    }
+    .card {
+      max-width: 800px;
+      background: #001a33;
+      margin: 0 auto;
+      border-radius: 20px;
+      box-shadow: 0 10px 25px rgba(0,0,0,0.3);
+      padding: 30px;
+      border: 2px solid #ffd700;
+    }
+    .header {
+      text-align: center;
+      margin-bottom: 30px;
+    }
+    .header img {
+      width: 120px;
+      margin-bottom: 10px;
+    }
+    .header h1 {
+      font-size: 28px;
+      margin: 10px 0 5px;
+    }
+    .tagline, .motto {
+      font-style: italic;
+      font-weight: bold;
+      color: #ffd700;
+    }
+    .section {
+      margin-bottom: 25px;
+    }
+    .section h2 {
+      font-size: 20px;
+      margin-bottom: 10px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .highlight {
+      background: rgba(255, 215, 0, 0.1);
+      padding: 10px;
+      border-left: 4px solid #ffd700;
+      border-radius: 6px;
+      margin-top: 10px;
+    }
+    .footer {
+      text-align: center;
+      font-size: 14px;
+      margin-top: 20px;
+    }
+    a {
+      color: #ffd700;
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <div class="header">
+      <img src="https://res.cloudinary.com/dxh2tcoal/image/upload/v1745312748/v5txpnx1qlacsrhhckvv.jpg" alt="ABC Life Logo">
+      <div class="motto">Aim. Believe. Conquer.</div>
+      <h1>ABC LIFE CAREER MARKETING</h1>
+      <p class="tagline">Architecting Life, Career and Mindsets</p>
+    </div>
+
+    <div class="section">
+      <h2>🧠 What We Do</h2>
+      <p>We solve life, career, and mindset-related challenges with speed, clarity, and accuracy through our revolutionary <strong>Trinetra System</strong>. This system fuses ancient Sanatan principles with modern AI and psychological tools. We help individuals unlock their inner decision-maker and take confident, fearless action within 15–30 minutes — no overthinking, no therapy loops, no waiting.</p>
+    </div>
+
+    <div class="section">
+      <h2>🔥 Why We Do It</h2>
+      <p>People are stuck in overthinking, external validation, and excessive dependence. We believe clarity comes from within, not outside. Our mission is to awaken your inner compass, provide real-time solutions, and set you free to live your potential. We exist to disrupt confusion and empower decisive living in a distracted world.</p>
+    </div>
+
+    <div class="section">
+      <h2>🛠️ Our Services</h2>
+      <ul>
+        <li><strong>Antar Yatra (FREE):</strong> Self-discovery form based on our 5D Inner-Self Framework to reveal root issues.</li>
+        <li><strong>Jigyasa Form (₹2500/problem):</strong> Customized diagnostic and solution-generation process including a Solution Kit for fast execution.</li>
+        <li><strong>Life & Career Transformation Programs:</strong> Combining Bhagavad Gita principles with neuroscience and 80/20 models for lasting breakthroughs.</li>
+        <li><strong>Health Solutions:</strong> Premium health insurance guidance, holistic wellness products, immunity boosters, lifestyle habit change programs, digital fitness routines, Ayurveda-based supplements.</li>
+        <li><strong>Wealth Solutions:</strong> Investment Management, Financial Planning, Tax Strategy, Estate Planning, Risk Profiling, Retirement Blueprinting — all with inner-aligned decision frameworks.</li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>🔍 Who It’s For</h2>
+      <p>This is for everyone navigating life crossroads — students deciding careers, professionals stuck in toxic jobs, entrepreneurs battling mental fog, homemakers losing identity, parents seeking harmony, or retirees seeking purpose. If you have a mind and a mission, this is for you.</p>
+    </div>
+
+    <div class="section">
+      <h2>🌟 Why Choose Us?</h2>
+      <div class="highlight">
+        We don’t give you answers — we awaken your own. <br>
+        ✅ Lightning-fast clarity within 15–30 minutes<br>
+        ✅ No dependency on therapists, coaches, or approval<br>
+        ✅ Customized, actionable solutions backed by ancient and futuristic science<br>
+        ✅ Deep spiritual psychology meets practical life execution<br>
+        ✅ You solve one problem — and it changes your system forever
+      </div>
+    </div>
+
+    <div class="section">
+      <h2>🧭 Know Yourself More With Us</h2>
+      <p>Start your inner journey now:</p>
+      <ul>
+        <li><a href="#">🔗 Fill Antar Yatra (Self Discovery - FREE)</a></li>
+        <li><a href="#">🔗 Submit Jigyasa Form (Problem Solver - ₹2500)</a></li>
+      </ul>
+    </div>
+
+    <div class="section">
+      <h2>📲 Connect With Us</h2>
+      <ul>
+        <li><strong>Website:</strong> <a href="#">www.abclifecareermarketing.in</a></li>
+        <li><strong>Email:</strong> <a href="mailto:connect@abclifecareermarketing.in">connect@abclifecareermarketing.in</a></li>
+        <li><strong>Phone/WhatsApp:</strong> +91-XXXXXXXXXX</li>
+        <li><strong>Location:</strong> India (Serving Globally)</li>
+        <li><strong>Social:</strong> LinkedIn | Instagram | YouTube</li>
+      </ul>
+    </div>
+
+    <div class="footer">
+      🚀 Your Problem is Just a Portal — Let us show you the doorway you didn’t know existed.<br>
+      <strong>ABC LIFE CAREER MARKETING</strong> – "Real Problems. Real You. Real Solutions."
+    </div>
+  </div>
+</body>
+</html>
